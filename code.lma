@@ -1,0 +1,17 @@
+qword var1 = 99
+qword var2          # variable 2 used for stuff
+qword var2323 = 10
+
+qword result
+
+func main {
+    #main()
+    #run()
+    #run()
+    result = -var + -3 * 2
+    # result = ((x + 2) / (3 * (x - 5))) / ((x - 5) / (3 * ((x + 1) / (x + 9))))
+
+    # junk = 1 || (2 + 32)
+    # print()
+}
+
